@@ -1,0 +1,604 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers and Materials from All Areas"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Knowledge Graph Construction (Demo or System) [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "About Domain-Specific Knowledge Bases [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "About Multi-Modal Knowledge Graph (MMKG) [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Named Entity Recognition, Entity Extraction and Entity Typing [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coreference Resolution [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entity Linking and Entity Disambiguation [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entity Resolution, Entity Matching and Entity Alignment [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Relation Extraction [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "General Information Extraction, Open Information Extraction, Open KG Construction, and Open KG Canonicalization [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Relation Linking and Relation Disambiguation [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        }
+      ],
+      "title": "1. Knowledge Extraction and Integration to Construct KGs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        }
+      ],
+      "title": "2. Mining and Refinement of KGs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Knowledge Graph Question Answering (KGQA) [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Graph Recommendation [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Graph Enhanced Machine Learning [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Graphs and Large Language Models (LLMs) [link] 🔥🔥🔥",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Knowledge Graphs in RAG [Link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-23T02:01:21Z",
+                "owner": "heathersherry",
+                "repo": "Knowledge-Graph-Tutorials-and-Papers",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Knowledge Graphs in Agent Memory [Link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-23T02:01:21Z",
+                "owner": "heathersherry",
+                "repo": "Knowledge-Graph-Tutorials-and-Papers",
+                "stars": 1068
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        }
+      ],
+      "title": "3. Applications Supported by KGs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Knowledge Graph Representation (RDF and Property Graph), Schema and Query [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Graph Taxonomy/Ontology Construction and Improvement [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        }
+      ],
+      "title": "4. Schema and Query of KGs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Graph Databases [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Other Interesting Research Topics Related to KGs (e.g., KG Security and Evaluation) [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Good DB Papers [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tutorials and Notes of Other Related Insightful Topics [Link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T02:01:21Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
+            "stars": 1068
+          }
+        }
+      ],
+      "title": "5. Others"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers and Materials from the Database/Data Science Communities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "[2018] [2019] [2020] [2021] [2022] [2023] [2024] [2025] [2026]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials and Notes from Talented People"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tracking Progress in Natural Language Processing [GitHub",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-28T00:44:25Z",
+            "owner": "sebastianruder",
+            "repo": "NLP-progress",
+            "stars": 22961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LLM-KGs [Link",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-02T02:00:45Z",
+            "owner": "RManLuo",
+            "repo": "Awesome-LLM-KG",
+            "stars": 2614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KG-LLM-Papers [Link",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-02T20:23:03Z",
+            "owner": "zjukg",
+            "repo": "KG-LLM-Papers",
+            "stars": 2223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data [GitHub",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-07T16:30:33Z",
+            "owner": "shaoxiongji",
+            "repo": "knowledge-graphs",
+            "stars": 1793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome KG tutorials/papers/projects/communities [GitHub",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-24T01:13:19Z",
+            "owner": "BrambleXu",
+            "repo": "knowledge-graph-learning",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entity Related Papers [GitHub",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-01-02T06:07:23Z",
+            "owner": "kaisugi",
+            "repo": "entity-related-papers",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KG SOTA [GitHub",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-08T11:32:54Z",
+            "owner": "impillar",
+            "repo": "knowledge_graph",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Information Extraction Resources [GitHub",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-09T09:29:22Z",
+            "owner": "icip-cas",
+            "repo": "InformationExtraction",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KG Embedding SOTA [GitHub",
+          "description": "]",
+          "children": []
+        }
+      ],
+      "title": "GitHub Repos that Summarize the Papers/Projects/Data related to Knowledge Graphs"
+    },
+    {
+      "description": "You may refer to this collection for more details: [Github]",
+      "items": [],
+      "title": "Research Groups"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grakn KGLIB (Knowledge Graph Library) [GitHub",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-18T17:08:08Z",
+            "owner": "typedb",
+            "repo": "typedb-ml",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BOOKNLP [Link",
+          "description": "] (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-02-04T08:55:22Z",
+            "owner": "dbamman",
+            "repo": "book-nlp",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wikidata Integrator [GitHub",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-14T05:08:21Z",
+            "owner": "SuLab",
+            "repo": "WikidataIntegrator",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPARQL server on Freebase [GitHub",
+          "description": "] [About VOS]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-16T19:07:29Z",
+            "owner": "xwhan",
+            "repo": "Freebase-SPARQL-server-on-AWS",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Useful Tools or APIs"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:36.982Z",
+    "original_repository": "heathersherry/Knowledge-Graph-Tutorials-and-Papers",
+    "original_repository_sha": "53c4570f5b5d96a7ee339fd64a27c008fa396544",
+    "enhanced_repository": "enhansome/enhansome-Knowledge-Graph-Tutorials-and-Papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Research Topics in Knowledge Graph with stars"
+  }
+}
