@@ -415,7 +415,7 @@
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22961
+            "stars": 22962
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2022-10-07T16:30:33Z",
             "owner": "shaoxiongji",
             "repo": "knowledge-graphs",
-            "stars": 1793
+            "stars": 1792
           }
         },
         {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:36.982Z",
+    "last_updated": "2026-08-14T04:26:08.548Z",
     "original_repository": "heathersherry/Knowledge-Graph-Tutorials-and-Papers",
     "original_repository_sha": "53c4570f5b5d96a7ee339fd64a27c008fa396544",
     "enhanced_repository": "enhansome/enhansome-Knowledge-Graph-Tutorials-and-Papers",
