@@ -434,7 +434,7 @@
                 "last_commit": "2024-07-28T00:44:25Z",
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22954
+                "stars": 22953
               }
             },
             {
@@ -464,7 +464,7 @@
                 "last_commit": "2026-03-02T20:23:03Z",
                 "owner": "zjukg",
                 "repo": "KG-LLM-Papers",
-                "stars": 2223
+                "stars": 2225
               }
             },
             {
@@ -479,7 +479,7 @@
                 "last_commit": "2022-10-07T16:30:33Z",
                 "owner": "shaoxiongji",
                 "repo": "knowledge-graphs",
-                "stars": 1790
+                "stars": 1791
               }
             },
             {
@@ -565,7 +565,7 @@
             "last_commit": "2023-11-18T17:08:08Z",
             "owner": "typedb",
             "repo": "typedb-ml",
-            "stars": 553
+            "stars": 551
           }
         },
         {
@@ -618,7 +618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:27:22.167Z",
+    "last_updated": "2026-08-21T03:33:41.079Z",
     "original_repository": "heathersherry/Knowledge-Graph-Tutorials-and-Papers",
     "original_repository_id": 174802068,
     "original_repository_sha": "8b995c237c17cb8527e5f4bf04ef18dea0ab4255",
