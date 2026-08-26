@@ -88,11 +88,11 @@
 
 #### GitHub Repos that Summarize the Papers/Projects/Data related to Knowledge Graphs
 
-1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,952 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
+1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,953 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
 2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,613 | 🐛 6 | 📅 2025-05-02]
 3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,227 | 🐛 10 | 📅 2026-03-02]
 4. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data \[[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey) ⭐ 1,792 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07]
-5. Awesome KG tutorials/papers/projects/communities \[[GitHub](https://github.com/BrambleXu/knowledge-graph-learning) ⭐ 778 | 🐛 377 | 📅 2023-01-24]
+5. Awesome KG tutorials/papers/projects/communities \[[GitHub](https://github.com/BrambleXu/knowledge-graph-learning) ⭐ 778 | 🐛 378 | 📅 2023-01-24]
 6. Entity Related Papers \[[GitHub](https://github.com/HelloRusk/entity-related-papers) ⚠️ Archived]
 7. KG SOTA \[[GitHub](https://github.com/impillar/knowledge_graph/blob/master/README.md) ⭐ 34 | 🐛 0 | 📅 2018-05-08]
 8. Information Extraction Resources \[[GitHub](https://github.com/casnlu/InformationExtraction) ⭐ 21 | 🐛 0 | 📅 2019-12-09]
@@ -132,4 +132,4 @@ I have listed more tools/benchmarks/APIs/demos in each sub-page of different top
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
