@@ -1163,7 +1163,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22955,
+                "stars": 22952,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -1191,7 +1191,7 @@
                 "open_issues": 6,
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2613,
+                "stars": 2614,
                 "topics": [
                   "awsome",
                   "chatgpt",
@@ -1222,7 +1222,7 @@
                 "open_issues": 10,
                 "owner": "zjukg",
                 "repo": "KG-LLM-Papers",
-                "stars": 2227,
+                "stars": 2228,
                 "topics": [
                   "awesome",
                   "awesome-kg",
@@ -1259,7 +1259,7 @@
                 "open_issues": 0,
                 "owner": "shaoxiongji",
                 "repo": "knowledge-graphs",
-                "stars": 1794,
+                "stars": 1792,
                 "topics": [
                   "commonsense",
                   "cross-modal",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:32:05.652Z",
+    "last_updated": "2026-09-08T07:24:59.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
