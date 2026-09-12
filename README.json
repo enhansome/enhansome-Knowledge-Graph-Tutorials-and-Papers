@@ -1163,7 +1163,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22953,
+                "stars": 22952,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:27:56.648Z",
+    "last_updated": "2026-09-12T07:20:10.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
