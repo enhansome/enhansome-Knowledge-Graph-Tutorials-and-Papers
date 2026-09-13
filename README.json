@@ -1477,7 +1477,7 @@
             "open_issues": 7,
             "owner": "dbamman",
             "repo": "book-nlp",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "digital-humanities",
               "natural-language-processing"
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:20:10.745Z",
+    "last_updated": "2026-09-13T07:38:49.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",

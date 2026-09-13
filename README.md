@@ -113,12 +113,12 @@ You may refer to this collection for more details: \[[Github](https://github.com
 2. DBPedia \[[Link](https://www.dbpedia.org/)]
 3. Yago \[[Link](https://yago-knowledge.org/)]
 4. Google Knowledge Graph (Freebase) \[[Link](https://developers.google.com/freebase/guide/basic_concepts)]
-5. Chinese OwnThink Knowledge Graph \[[Link](https://github.com/ownthink/KnowledgeGraphData) ⭐ 5,202 | 🐛 27 | 🌐 Python | 📅 2023-12-06]
+5. Chinese OwnThink Knowledge Graph \[[Link](https://github.com/ownthink/KnowledgeGraphData) ⭐ 5,201 | 🐛 27 | 🌐 Python | 📅 2023-12-06]
 
 ## Useful Tools or APIs
 
 1. Grakn KGLIB (Knowledge Graph Library) \[[GitHub](https://github.com/graknlabs/kglib) ⚠️ Archived]
-2. BOOKNLP \[[Link](https://github.com/dbamman/book-nlp) ⭐ 318 | 🐛 7 | 🌐 Java | 📅 2022-02-04] (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))
+2. BOOKNLP \[[Link](https://github.com/dbamman/book-nlp) ⭐ 319 | 🐛 7 | 🌐 Java | 📅 2022-02-04] (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))
 3. Wikidata Integrator \[[GitHub](https://github.com/SuLab/WikidataIntegrator) ⭐ 261 | 🐛 14 | 🌐 Python | 📅 2023-11-14]
 4. SPARQL server on Freebase \[[GitHub](https://github.com/xwhan/Freebase-SPARQL-server-on-AWS) ⭐ 5 | 🐛 0 | 📅 2019-03-16] \[[About VOS](http://vos.openlinksw.com/owiki/wiki/VOS)]
 5. From Freebase to Wikidata: The Great Migration \[[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)]
@@ -132,4 +132,4 @@ I have listed more tools/benchmarks/APIs/demos in each sub-page of different top
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
