@@ -113,7 +113,7 @@ You may refer to this collection for more details: \[[Github](https://github.com
 2. DBPedia \[[Link](https://www.dbpedia.org/)]
 3. Yago \[[Link](https://yago-knowledge.org/)]
 4. Google Knowledge Graph (Freebase) \[[Link](https://developers.google.com/freebase/guide/basic_concepts)]
-5. Chinese OwnThink Knowledge Graph \[[Link](https://github.com/ownthink/KnowledgeGraphData) ⭐ 5,201 | 🐛 27 | 🌐 Python | 📅 2023-12-06]
+5. Chinese OwnThink Knowledge Graph \[[Link](https://github.com/ownthink/KnowledgeGraphData) ⭐ 5,202 | 🐛 27 | 🌐 Python | 📅 2023-12-06]
 
 ## Useful Tools or APIs
 
@@ -132,4 +132,4 @@ I have listed more tools/benchmarks/APIs/demos in each sub-page of different top
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
