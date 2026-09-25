@@ -9,71 +9,71 @@
 
 ### 0. Overview
 
-* **Survey of Knowledge Graphs - General Concepts, Scientific Problems, Applications, Challenges, and Directions) \[[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/overview.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15]**
+* **Survey of Knowledge Graphs - General Concepts, Scientific Problems, Applications, Challenges, and Directions) \[[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/overview.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25]**
 
 ### 1. Knowledge Extraction and Integration to Construct KGs
 
-* **Knowledge Graph Construction (Demo or System) [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Construction%20\(Demo%20or%20System\).md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Knowledge Graph Construction (Demo or System) [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Construction%20\(Demo%20or%20System\).md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **About Domain-Specific Knowledge Bases [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/About%20Domain-Specific%20Knowledge%20Bases.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **About Domain-Specific Knowledge Bases [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/About%20Domain-Specific%20Knowledge%20Bases.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **About Multi-Modal Knowledge Graph (MMKG) \[[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/MMKG.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15]**
+* **About Multi-Modal Knowledge Graph (MMKG) \[[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/MMKG.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25]**
 
-* **Named Entity Recognition, Entity Extraction and Entity Typing [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recognition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Named Entity Recognition, Entity Extraction and Entity Typing [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recognition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Coreference Resolution [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Coreference%20Resolution.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Coreference Resolution [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Coreference%20Resolution.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Entity Linking and Entity Disambiguation [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Linking%20and%20Entity%20Disambiguation.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Entity Linking and Entity Disambiguation [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Linking%20and%20Entity%20Disambiguation.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Entity Resolution, Entity Matching and Entity Alignment [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Resolution%2C%20Entity%20Matching%20and%20Entity%20Alignment.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Entity Resolution, Entity Matching and Entity Alignment [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Resolution%2C%20Entity%20Matching%20and%20Entity%20Alignment.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Relation Extraction [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Extraction.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Relation Extraction [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Extraction.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **General Information Extraction, Open Information Extraction, Open KG Construction, and Open KG Canonicalization [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/General%20Information%20Extraction.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **General Information Extraction, Open Information Extraction, Open KG Construction, and Open KG Canonicalization [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/General%20Information%20Extraction.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Relation Linking and Relation Disambiguation [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Linking%20and%20Relation%20Disambiguation.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Relation Linking and Relation Disambiguation [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Linking%20and%20Relation%20Disambiguation.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
 ### 2. Mining and Refinement of KGs
 
-* **Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Embedding%2C%20Learning%2C%20Reasoning%2C%20Rule%20Mining%2C%20and%20Path%20Finding.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Embedding%2C%20Learning%2C%20Reasoning%2C%20Rule%20Mining%2C%20and%20Path%20Finding.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Base%20Refinement%20\(Incompleteness%2C%20Incorrectness%2C%20and%20Freshness\).md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Base%20Refinement%20\(Incompleteness%2C%20Incorrectness%2C%20and%20Freshness\).md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Fusion%2C%20Cleaning%2C%20Evaluation%20and%20Truth%20Discovery.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Fusion%2C%20Cleaning%2C%20Evaluation%20and%20Truth%20Discovery.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
 ### 3. Applications Supported by KGs
 
-* **Knowledge Graph Question Answering (KGQA) [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Question%20Answering%20\(KGQA\).md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Knowledge Graph Question Answering (KGQA) [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Question%20Answering%20\(KGQA\).md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Knowledge Graph Recommendation [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Recommendation.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Knowledge Graph Recommendation [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Recommendation.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Knowledge Graph Enhanced Machine Learning [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Enhanced%20Machine%20Learning.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Knowledge Graph Enhanced Machine Learning [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Enhanced%20Machine%20Learning.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Knowledge Graphs and Large Language Models (LLMs) [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20and%20LLMs.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15** 🔥🔥🔥
-  * **Knowledge Graphs in RAG \[[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graphs%20in%20RAG.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15]**
-  * **Knowledge Graphs in Agent Memory \[[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graphs%20in%20Agent%20Memory.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15]**
+* **Knowledge Graphs and Large Language Models (LLMs) [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20and%20LLMs.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25** 🔥🔥🔥
+  * **Knowledge Graphs in RAG \[[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graphs%20in%20RAG.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25]**
+  * **Knowledge Graphs in Agent Memory \[[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graphs%20in%20Agent%20Memory.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25]**
 
 ### 4. Schema and Query of KGs
 
-* **Knowledge Graph Representation (RDF and Property Graph), Schema and Query [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledg%20Graph%20Representation%20\(RDF%20and%20Property%20Graph\)%20and%20Schema.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Knowledge Graph Representation (RDF and Property Graph), Schema and Query [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledg%20Graph%20Representation%20\(RDF%20and%20Property%20Graph\)%20and%20Schema.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Knowledge Graph Taxonomy/Ontology Construction and Improvement \[[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Taxonomy%20Construction%20and%20Improvement.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15]**
+* **Knowledge Graph Taxonomy/Ontology Construction and Improvement \[[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Taxonomy%20Construction%20and%20Improvement.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25]**
 
 ### 5. Others
 
-* **Graph Databases \[[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Graph%20Databases.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15]**
+* **Graph Databases \[[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Graph%20Databases.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25]**
 
-* **Other Interesting Research Topics Related to KGs (e.g., KG Security and Evaluation) [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Other Interesting Research Topics Related to KGs (e.g., KG Security and Evaluation) [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Good DB Papers [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Good%20DB%20papers.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15**
+* **Good DB Papers [\[link\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Good%20DB%20papers.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25**
 
-* **Tutorials and Notes of Other Related Insightful Topics \[[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Tutorials%20and%20Notes%20of%20Other%20Related%20Insightful%20Topics.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15]**
+* **Tutorials and Notes of Other Related Insightful Topics \[[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Tutorials%20and%20Notes%20of%20Other%20Related%20Insightful%20Topics.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25]**
 
 ## Papers and Materials from the Database/Data Science Communities
 
 > Note: Papers from SIGMOD/VLDB/ICDE/KDD/TKDE/VLDBJ
 
-#### [\[2018\]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018) ⭐ 1 | 🐛 0 | 📅 2020-10-07  [\[2019\]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019) ⭐ 4 | 🐛 0 | 📅 2020-10-07  [\[2020\]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-) ⭐ 5 | 🐛 0 | 📅 2021-05-12  [\[2021\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2021.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15  [\[2022\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2022.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15  [\[2023\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2023.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15 \[[2024](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2024.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15] \[[2025](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2025.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15] \[[2026](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2026.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-15]
+#### [\[2018\]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018) ⭐ 1 | 🐛 0 | 📅 2020-10-07  [\[2019\]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019) ⭐ 4 | 🐛 0 | 📅 2020-10-07  [\[2020\]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-) ⭐ 5 | 🐛 0 | 📅 2021-05-12  [\[2021\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2021.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25  [\[2022\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2022.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25  [\[2023\]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2023.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25 \[[2024](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2024.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25] \[[2025](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2025.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25] \[[2026](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2026.md) ⭐ 1,073 | 🐛 6 | 📅 2026-09-25]
 
 ## Tutorials and Notes from Talented People
 
@@ -88,9 +88,9 @@
 
 #### GitHub Repos that Summarize the Papers/Projects/Data related to Knowledge Graphs
 
-1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,951 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
-2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,615 | 🐛 6 | 📅 2025-05-02]
-3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,233 | 🐛 10 | 📅 2026-03-02]
+1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,952 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
+2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,614 | 🐛 6 | 📅 2025-05-02]
+3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,232 | 🐛 10 | 📅 2026-03-02]
 4. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data \[[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey) ⭐ 1,796 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07]
 5. Awesome KG tutorials/papers/projects/communities \[[GitHub](https://github.com/BrambleXu/knowledge-graph-learning) ⭐ 778 | 🐛 377 | 📅 2026-08-26]
 6. Entity Related Papers \[[GitHub](https://github.com/HelloRusk/entity-related-papers) ⚠️ Archived]
@@ -132,4 +132,4 @@ I have listed more tools/benchmarks/APIs/demos in each sub-page of different top
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
