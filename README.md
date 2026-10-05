@@ -88,8 +88,8 @@
 
 #### GitHub Repos that Summarize the Papers/Projects/Data related to Knowledge Graphs
 
-1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,950 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
-2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,615 | 🐛 6 | 📅 2025-05-02]
+1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,949 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
+2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,614 | 🐛 6 | 📅 2025-05-02]
 3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,235 | 🐛 10 | 📅 2026-03-02]
 4. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data \[[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey) ⭐ 1,798 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07]
 5. Awesome KG tutorials/papers/projects/communities \[[GitHub](https://github.com/BrambleXu/knowledge-graph-learning) ⭐ 778 | 🐛 377 | 📅 2026-08-26]
@@ -132,4 +132,4 @@ I have listed more tools/benchmarks/APIs/demos in each sub-page of different top
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
