@@ -76,7 +76,7 @@
                 "open_issues": 6,
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2613,
+                "stars": 2614,
                 "topics": [
                   "awsome",
                   "chatgpt",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:45:18.533Z",
+    "last_updated": "2026-10-07T09:13:11.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
@@ -434,7 +434,7 @@
       "open_issues": 6,
       "owner": "heathersherry",
       "repo": "Knowledge-Graph-Tutorials-and-Papers",
-      "stars": 1072,
+      "stars": 1073,
       "topics": [
         "awesome",
         "awesome-kg",
