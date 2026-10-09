@@ -144,7 +144,7 @@
                 "open_issues": 0,
                 "owner": "shaoxiongji",
                 "repo": "knowledge-graphs",
-                "stars": 1797,
+                "stars": 1798,
                 "topics": [
                   "commonsense",
                   "cross-modal",
@@ -321,7 +321,7 @@
             "open_issues": 12,
             "owner": "typedb",
             "repo": "typedb-ml",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:26:37.151Z",
+    "last_updated": "2026-10-09T09:36:22.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
