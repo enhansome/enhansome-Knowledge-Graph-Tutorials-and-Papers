@@ -48,7 +48,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22950,
+                "stars": 22953,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -76,7 +76,7 @@
                 "open_issues": 6,
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2613,
+                "stars": 2614,
                 "topics": [
                   "awsome",
                   "chatgpt",
@@ -107,7 +107,7 @@
                 "open_issues": 10,
                 "owner": "zjukg",
                 "repo": "KG-LLM-Papers",
-                "stars": 2239,
+                "stars": 2240,
                 "topics": [
                   "awesome",
                   "awesome-kg",
@@ -183,7 +183,7 @@
                 "open_issues": 377,
                 "owner": "BrambleXu",
                 "repo": "knowledge-graph-learning",
-                "stars": 780,
+                "stars": 781,
                 "topics": [
                   "knowledge-graph",
                   "knowledge-graph-embeddings",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T09:43:33.390Z",
+    "last_updated": "2026-10-14T08:00:06.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
@@ -434,7 +434,7 @@
       "open_issues": 6,
       "owner": "heathersherry",
       "repo": "Knowledge-Graph-Tutorials-and-Papers",
-      "stars": 1075,
+      "stars": 1076,
       "topics": [
         "awesome",
         "awesome-kg",
