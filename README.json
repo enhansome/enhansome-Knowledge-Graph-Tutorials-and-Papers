@@ -107,7 +107,7 @@
                 "open_issues": 10,
                 "owner": "zjukg",
                 "repo": "KG-LLM-Papers",
-                "stars": 2240,
+                "stars": 2241,
                 "topics": [
                   "awesome",
                   "awesome-kg",
@@ -141,7 +141,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2022-10-07T16:30:33Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "shaoxiongji",
                 "repo": "knowledge-graphs",
                 "stars": 1799,
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:00:06.786Z",
+    "last_updated": "2026-10-15T07:43:00.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
