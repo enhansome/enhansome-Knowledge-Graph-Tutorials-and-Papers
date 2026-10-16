@@ -88,9 +88,9 @@
 
 #### GitHub Repos that Summarize the Papers/Projects/Data related to Knowledge Graphs
 
-1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,953 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
-2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,614 | 🐛 6 | 📅 2025-05-02]
-3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,241 | 🐛 10 | 📅 2026-03-02]
+1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,952 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
+2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,615 | 🐛 6 | 📅 2025-05-02]
+3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,243 | 🐛 10 | 📅 2026-03-02]
 4. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data \[[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey) ⭐ 1,799 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-07]
 5. Awesome KG tutorials/papers/projects/communities \[[GitHub](https://github.com/BrambleXu/knowledge-graph-learning) ⭐ 781 | 🐛 377 | 📅 2026-08-26]
 6. Entity Related Papers \[[GitHub](https://github.com/HelloRusk/entity-related-papers) ⚠️ Archived]
@@ -103,7 +103,7 @@
 
 #### Research Groups
 
-You may refer to this collection for more details: \[[Github](https://github.com/kgsandai/KGs-Research-Group) ⭐ 22 | 🐛 0 | 📅 2022-10-26]
+You may refer to this collection for more details: \[[Github](https://github.com/kgsandai/KGs-Research-Group) ⭐ 23 | 🐛 0 | 📅 2022-10-26]
 
 ## Knowledge Graph Datasets
 
@@ -113,12 +113,12 @@ You may refer to this collection for more details: \[[Github](https://github.com
 2. DBPedia \[[Link](https://www.dbpedia.org/)]
 3. Yago \[[Link](https://yago-knowledge.org/)]
 4. Google Knowledge Graph (Freebase) \[[Link](https://developers.google.com/freebase/guide/basic_concepts)]
-5. Chinese OwnThink Knowledge Graph \[[Link](https://github.com/ownthink/KnowledgeGraphData) ⭐ 5,213 | 🐛 27 | 🌐 Python | 📅 2023-12-06]
+5. Chinese OwnThink Knowledge Graph \[[Link](https://github.com/ownthink/KnowledgeGraphData) ⭐ 5,212 | 🐛 27 | 🌐 Python | 📅 2023-12-06]
 
 ## Useful Tools or APIs
 
 1. Grakn KGLIB (Knowledge Graph Library) \[[GitHub](https://github.com/graknlabs/kglib) ⚠️ Archived]
-2. BOOKNLP \[[Link](https://github.com/dbamman/book-nlp) ⭐ 319 | 🐛 7 | 🌐 Java | 📅 2022-02-04] (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))
+2. BOOKNLP \[[Link](https://github.com/dbamman/book-nlp) ⭐ 320 | 🐛 7 | 🌐 Java | 📅 2022-02-04] (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))
 3. Wikidata Integrator \[[GitHub](https://github.com/SuLab/WikidataIntegrator) ⭐ 261 | 🐛 14 | 🌐 Python | 📅 2023-11-14]
 4. SPARQL server on Freebase \[[GitHub](https://github.com/xwhan/Freebase-SPARQL-server-on-AWS) ⭐ 5 | 🐛 0 | 📅 2019-03-16] \[[About VOS](http://vos.openlinksw.com/owiki/wiki/VOS)]
 5. From Freebase to Wikidata: The Great Migration \[[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)]
@@ -132,4 +132,4 @@ I have listed more tools/benchmarks/APIs/demos in each sub-page of different top
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
