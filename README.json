@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:48:12.159Z",
+    "last_updated": "2026-10-26T08:05:52.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
@@ -434,7 +434,7 @@
       "open_issues": 6,
       "owner": "heathersherry",
       "repo": "Knowledge-Graph-Tutorials-and-Papers",
-      "stars": 1075,
+      "stars": 1076,
       "topics": [
         "awesome",
         "awesome-kg",
