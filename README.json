@@ -48,7 +48,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22957,
+                "stars": 22956,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -107,7 +107,7 @@
                 "open_issues": 10,
                 "owner": "zjukg",
                 "repo": "KG-LLM-Papers",
-                "stars": 2244,
+                "stars": 2245,
                 "topics": [
                   "awesome",
                   "awesome-kg",
@@ -144,7 +144,7 @@
                 "open_issues": 1,
                 "owner": "shaoxiongji",
                 "repo": "knowledge-graphs",
-                "stars": 1801,
+                "stars": 1802,
                 "topics": [
                   "commonsense",
                   "cross-modal",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T08:05:52.031Z",
+    "last_updated": "2026-10-27T08:21:16.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
@@ -430,11 +430,11 @@
       "id": 174802068,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-09T12:58:16Z",
+      "last_commit": "2026-10-27T05:32:05Z",
       "open_issues": 6,
       "owner": "heathersherry",
       "repo": "Knowledge-Graph-Tutorials-and-Papers",
-      "stars": 1076,
+      "stars": 1078,
       "topics": [
         "awesome",
         "awesome-kg",
@@ -457,7 +457,7 @@
         "mmkg"
       ]
     },
-    "original_repository_sha": "f1b1a672827166091455fa75810a272a97da4005",
+    "original_repository_sha": "231fb6752539a6075f06b79513aff08d5b080225",
     "enhanced_repository": "enhansome/enhansome-Knowledge-Graph-Tutorials-and-Papers",
     "enhanced_repository_description": null,
     "title": "Awesome Research Topics in Knowledge Graph with stars"
