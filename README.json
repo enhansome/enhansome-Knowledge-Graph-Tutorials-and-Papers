@@ -48,7 +48,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22955,
+                "stars": 22956,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -183,7 +183,7 @@
                 "open_issues": 377,
                 "owner": "BrambleXu",
                 "repo": "knowledge-graph-learning",
-                "stars": 781,
+                "stars": 782,
                 "topics": [
                   "knowledge-graph",
                   "knowledge-graph-embeddings",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T08:53:31.291Z",
+    "last_updated": "2026-10-30T08:57:57.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
@@ -430,7 +430,7 @@
       "id": 174802068,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-27T05:32:05Z",
+      "last_commit": "2026-10-30T03:36:01Z",
       "open_issues": 6,
       "owner": "heathersherry",
       "repo": "Knowledge-Graph-Tutorials-and-Papers",
@@ -457,7 +457,7 @@
         "mmkg"
       ]
     },
-    "original_repository_sha": "231fb6752539a6075f06b79513aff08d5b080225",
+    "original_repository_sha": "4b0d69b0ded733553a8190771da38a09bd10f578",
     "enhanced_repository": "enhansome/enhansome-Knowledge-Graph-Tutorials-and-Papers",
     "enhanced_repository_description": null,
     "title": "Awesome Research Topics in Knowledge Graph with stars"
