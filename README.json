@@ -107,7 +107,7 @@
                 "open_issues": 10,
                 "owner": "zjukg",
                 "repo": "KG-LLM-Papers",
-                "stars": 2247,
+                "stars": 2248,
                 "topics": [
                   "awesome",
                   "awesome-kg",
@@ -144,7 +144,7 @@
                 "open_issues": 1,
                 "owner": "shaoxiongji",
                 "repo": "knowledge-graphs",
-                "stars": 1802,
+                "stars": 1803,
                 "topics": [
                   "commonsense",
                   "cross-modal",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:49:44.913Z",
+    "last_updated": "2026-11-06T09:50:23.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
