@@ -144,7 +144,7 @@
                 "open_issues": 1,
                 "owner": "shaoxiongji",
                 "repo": "knowledge-graphs",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "commonsense",
                   "cross-modal",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:49:37.235Z",
+    "last_updated": "2026-11-12T10:15:56.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
