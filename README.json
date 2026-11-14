@@ -48,7 +48,7 @@
                 "open_issues": 40,
                 "owner": "sebastianruder",
                 "repo": "NLP-progress",
-                "stars": 22955,
+                "stars": 22954,
                 "topics": [
                   "dialogue",
                   "machine-learning",
@@ -107,7 +107,7 @@
                 "open_issues": 10,
                 "owner": "zjukg",
                 "repo": "KG-LLM-Papers",
-                "stars": 2247,
+                "stars": 2248,
                 "topics": [
                   "awesome",
                   "awesome-kg",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:57:17.288Z",
+    "last_updated": "2026-11-14T09:23:27.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
@@ -431,7 +431,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-30T03:36:01Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "heathersherry",
       "repo": "Knowledge-Graph-Tutorials-and-Papers",
       "stars": 1079,
