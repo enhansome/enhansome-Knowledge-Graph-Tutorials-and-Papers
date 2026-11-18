@@ -107,7 +107,7 @@
                 "open_issues": 10,
                 "owner": "zjukg",
                 "repo": "KG-LLM-Papers",
-                "stars": 2247,
+                "stars": 2246,
                 "topics": [
                   "awesome",
                   "awesome-kg",
@@ -183,7 +183,7 @@
                 "open_issues": 377,
                 "owner": "BrambleXu",
                 "repo": "knowledge-graph-learning",
-                "stars": 782,
+                "stars": 783,
                 "topics": [
                   "knowledge-graph",
                   "knowledge-graph-embeddings",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T11:05:51.788Z",
+    "last_updated": "2026-11-18T10:41:22.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
@@ -434,7 +434,7 @@
       "open_issues": 6,
       "owner": "heathersherry",
       "repo": "Knowledge-Graph-Tutorials-and-Papers",
-      "stars": 1079,
+      "stars": 1080,
       "topics": [
         "awesome",
         "awesome-kg",
