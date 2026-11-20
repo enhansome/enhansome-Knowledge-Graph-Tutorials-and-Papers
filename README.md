@@ -88,10 +88,10 @@
 
 #### GitHub Repos that Summarize the Papers/Projects/Data related to Knowledge Graphs
 
-1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,957 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
-2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,621 | 🐛 5 | 📅 2025-05-02]
-3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,246 | 🐛 10 | 📅 2026-03-02]
-4. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data \[[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey) ⭐ 1,806 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-07]
+1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,955 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
+2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,618 | 🐛 5 | 📅 2025-05-02]
+3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,243 | 🐛 10 | 📅 2026-03-02]
+4. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data \[[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey) ⭐ 1,805 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-07]
 5. Awesome KG tutorials/papers/projects/communities \[[GitHub](https://github.com/BrambleXu/knowledge-graph-learning) ⭐ 783 | 🐛 377 | 📅 2026-08-26]
 6. Entity Related Papers \[[GitHub](https://github.com/HelloRusk/entity-related-papers) ⚠️ Archived]
 7. KG SOTA \[[GitHub](https://github.com/impillar/knowledge_graph/blob/master/README.md) ⭐ 34 | 🐛 0 | 📅 2018-05-08]
@@ -118,7 +118,7 @@ You may refer to this collection for more details: \[[Github](https://github.com
 ## Useful Tools or APIs
 
 1. Grakn KGLIB (Knowledge Graph Library) \[[GitHub](https://github.com/graknlabs/kglib) ⚠️ Archived]
-2. BOOKNLP \[[Link](https://github.com/dbamman/book-nlp) ⭐ 321 | 🐛 7 | 🌐 Java | 📅 2022-02-04] (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))
+2. BOOKNLP \[[Link](https://github.com/dbamman/book-nlp) ⭐ 320 | 🐛 7 | 🌐 Java | 📅 2022-02-04] (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))
 3. Wikidata Integrator \[[GitHub](https://github.com/SuLab/WikidataIntegrator) ⭐ 261 | 🐛 14 | 🌐 Python | 📅 2023-11-14]
 4. SPARQL server on Freebase \[[GitHub](https://github.com/xwhan/Freebase-SPARQL-server-on-AWS) ⭐ 5 | 🐛 0 | 📅 2019-03-16] \[[About VOS](http://vos.openlinksw.com/owiki/wiki/VOS)]
 5. From Freebase to Wikidata: The Great Migration \[[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)]
@@ -132,4 +132,4 @@ I have listed more tools/benchmarks/APIs/demos in each sub-page of different top
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
