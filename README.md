@@ -88,7 +88,7 @@
 
 #### GitHub Repos that Summarize the Papers/Projects/Data related to Knowledge Graphs
 
-1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,954 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
+1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,953 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
 2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,618 | 🐛 5 | 📅 2025-05-02]
 3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,244 | 🐛 10 | 📅 2026-03-02]
 4. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data \[[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey) ⭐ 1,806 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-07]
@@ -113,7 +113,7 @@ You may refer to this collection for more details: \[[Github](https://github.com
 2. DBPedia \[[Link](https://www.dbpedia.org/)]
 3. Yago \[[Link](https://yago-knowledge.org/)]
 4. Google Knowledge Graph (Freebase) \[[Link](https://developers.google.com/freebase/guide/basic_concepts)]
-5. Chinese OwnThink Knowledge Graph \[[Link](https://github.com/ownthink/KnowledgeGraphData) ⭐ 5,222 | 🐛 27 | 🌐 Python | 📅 2026-11-10]
+5. Chinese OwnThink Knowledge Graph \[[Link](https://github.com/ownthink/KnowledgeGraphData) ⭐ 5,224 | 🐛 27 | 🌐 Python | 📅 2026-11-10]
 
 ## Useful Tools or APIs
 
@@ -132,4 +132,4 @@ I have listed more tools/benchmarks/APIs/demos in each sub-page of different top
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
