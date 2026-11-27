@@ -90,7 +90,7 @@
 
 1. Tracking Progress in Natural Language Processing \[[GitHub](https://github.com/sebastianruder/NLP-progress) ⭐ 22,954 | 🐛 40 | 🌐 Python | 📅 2024-07-28]
 2. Awesome LLM-KGs \[[Link](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,619 | 🐛 5 | 📅 2025-05-02]
-3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,244 | 🐛 10 | 📅 2026-03-02]
+3. KG-LLM-Papers \[[Link](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,243 | 🐛 10 | 📅 2026-03-02]
 4. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data \[[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey) ⭐ 1,806 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-07]
 5. Awesome KG tutorials/papers/projects/communities \[[GitHub](https://github.com/BrambleXu/knowledge-graph-learning) ⭐ 783 | 🐛 377 | 📅 2026-08-26]
 6. Entity Related Papers \[[GitHub](https://github.com/HelloRusk/entity-related-papers) ⚠️ Archived]
@@ -103,7 +103,7 @@
 
 #### Research Groups
 
-You may refer to this collection for more details: \[[Github](https://github.com/kgsandai/KGs-Research-Group) ⭐ 23 | 🐛 0 | 📅 2022-10-26]
+You may refer to this collection for more details: \[[Github](https://github.com/kgsandai/KGs-Research-Group) ⭐ 24 | 🐛 0 | 📅 2022-10-26]
 
 ## Knowledge Graph Datasets
 
@@ -113,7 +113,7 @@ You may refer to this collection for more details: \[[Github](https://github.com
 2. DBPedia \[[Link](https://www.dbpedia.org/)]
 3. Yago \[[Link](https://yago-knowledge.org/)]
 4. Google Knowledge Graph (Freebase) \[[Link](https://developers.google.com/freebase/guide/basic_concepts)]
-5. Chinese OwnThink Knowledge Graph \[[Link](https://github.com/ownthink/KnowledgeGraphData) ⭐ 5,226 | 🐛 27 | 🌐 Python | 📅 2026-11-10]
+5. Chinese OwnThink Knowledge Graph \[[Link](https://github.com/ownthink/KnowledgeGraphData) ⭐ 5,227 | 🐛 27 | 🌐 Python | 📅 2026-11-10]
 
 ## Useful Tools or APIs
 
@@ -132,4 +132,4 @@ I have listed more tools/benchmarks/APIs/demos in each sub-page of different top
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

@@ -107,7 +107,7 @@
                 "open_issues": 10,
                 "owner": "zjukg",
                 "repo": "KG-LLM-Papers",
-                "stars": 2244,
+                "stars": 2243,
                 "topics": [
                   "awesome",
                   "awesome-kg",
@@ -284,7 +284,7 @@
                 "open_issues": 0,
                 "owner": "kgsandai",
                 "repo": "KGs-Research-Group",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "knowledge-graph",
                   "machine-learning",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T11:27:53.499Z",
+    "last_updated": "2026-11-27T11:23:37.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "Insightful Tutorials and Papers about Knowledge Graphs",
